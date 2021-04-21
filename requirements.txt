@@ -1,0 +1,9 @@
+os
+time
+playsound
+speechrecognition
+gtts
+datetime
+time
+subprocess
+wikipedia
