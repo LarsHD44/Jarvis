@@ -21,6 +21,7 @@ def get_audio():
     r = sr.Recognizer()
     with sr.Microphone() as source:
         print("Ready, RECORDING!")
+        playsound.playsound("wake.mp3")
         audio = r.listen(source)
         said = ""
 
