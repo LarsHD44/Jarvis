@@ -199,8 +199,6 @@ if "Wikipedia" in text:
     playsound.playsound("voice20.mp3")
     os.remove("voice20.mp3")
 
-
-
 if "open a project" in text:
     print("What Project should i open?")
     tts = gTTS(" What Project should i open?", lang="en")
@@ -232,3 +230,51 @@ if "create a project" in text:
     f.close()
     p = subprocess.Popen([r"C:\WINDOWS\system32\notepad.exe", name + ".txt"], stdout=subprocess.PIPE)
     
+if "delete a project" in text:
+    print("What Project do you want to remove?")
+    tts = gTTS(" What Project do you want to remove?", lang="en")
+    tts.save("voice25.mp3")
+    playsound.playsound("voice25.mp3")
+    os.remove("voice25.mp3")
+    name = get_audio()
+    print("Are you sure you want to remove " + name + "?")
+    tts = gTTS(" Are you sure you want to remove " + name, lang="en")
+    tts.save("voice26.mp3")
+    playsound.playsound("voice26.mp3")
+    os.remove("voice26.mp3")
+    decide = get_audio()
+    if "yes" in decide:
+        print("I´m removing " + name + " now!")
+        tts = gTTS("Iam removing " + name + " now!", lang="en")
+        tts.save("voice27.mp3")
+        playsound.playsound("voice27.mp3")
+        os.remove("voice27.mp3")
+        os.remove(name + ".txt")
+
+    if "no" in decide:
+        print("I´m not going to remove " + name + "!")
+        tts = gTTS("Iam not going to remove " + name + "!", lang="en")
+        tts.save("voice27.mp3")
+        playsound.playsound("voice27.mp3")
+        os.remove("voice27.mp3")
+
+if "you there" in text:
+    print("Jarvis: For you Sir, always")
+    tts = gTTS(" For you Sir, always", lang="en")
+    tts.save("voice29.mp3")
+    playsound.playsound("voice29.mp3")
+    os.remove("voice29.mp3")
+
+if "you up" in text:
+    print("Jarvis: I´m always up Sir.")
+    tts = gTTS(" Iam always up Sir.", lang="en")
+    tts.save("voice30.mp3")
+    playsound.playsound("voice30.mp3")
+    os.remove("voice30.mp3")
+
+if "thanks Jarvis" in text:
+    print("Jarvis: No Problem.")
+    tts = gTTS(" No Problem.", lang="en")
+    tts.save("voice31.mp3")
+    playsound.playsound("voice31.mp3")
+    os.remove("voice31.mp3")
