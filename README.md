@@ -1,9 +1,9 @@
-# Jarvis
-My little Jarvis Voice Assistent.
-
-# programs you need
-To install the Packages and run Jarvis you will need:
-Python + pip packagemanager
+<h1>Jarvis</h1>
+<p>My little Jarvis Voice Assistent.</p>
+<br>
+<h1>programs you need</h1>
+<p>To install the Packages and run Jarvis you will need:</p>
+<p>Python + pip packagemanager</p>
 
 # packages you will need
 To run Jarvis you have to install all the packages in requierements.txt,
