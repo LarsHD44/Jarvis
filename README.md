@@ -18,16 +18,16 @@ Here is a list of commands that you can say:
 • how are you
 <p>• what is your name</p>
 <p>• what are you</p>
-• how is the weather
-• bitch
-• Nicki is here
-• what´s the time
-• do i have a girlfriend
-• open my todo list
-• open Wikipedia
-• create a project
-• open a project
-• delete a project
-• are you there
-• are you up
-• thanks Jarvis
+<p>• how is the weather</p>
+<p>• bitch</p>
+<p>• Nicki is here</p>
+<p>• what´s the time</p>
+<p>• do i have a girlfriend</p>
+<p>• open my todo list</p>
+<p>• open Wikipedia</p>
+<p>• create a project</p>
+<p>• open a project</p>
+<p>• delete a project</p>
+<p>• are you there</p>
+<p>• are you up</p>
+<p>• thanks Jarvis</p>
