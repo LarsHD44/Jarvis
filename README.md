@@ -15,3 +15,19 @@ and if its possible a Screenshot of the Problem, to help me fix this.
 
 # Commands
 Here is a list of commands that you can say:
+• how are you
+• what is your name
+• what are you
+• how is the weather
+• bitch
+• Nicki is here
+• what´s the time
+• do i have a girlfriend
+• open my todo list
+• open Wikipedia
+• create a project
+• open a project
+• delete a project
+• are you there
+• are you up
+• thanks Jarvis
