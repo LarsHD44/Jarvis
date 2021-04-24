@@ -15,7 +15,7 @@ and if its possible a Screenshot of the Problem, to help me fix this.
 
 # Commands
 Here is a list of commands that you can say:
-• how are you
+<p>• how are you</p>
 <p>• what is your name</p>
 <p>• what are you</p>
 <p>• how is the weather</p>
