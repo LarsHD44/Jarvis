@@ -1,6 +1,8 @@
 <h1>Jarvis</h1>
 <p>My little Jarvis Voice Assistent.</p>
 <br>
+<a href="https://github.com/pages-themes/cayman/zipball/master" class="btn">Download .zip</a>
+<br>
 <h1>programs you need</h1>
 <p>To install the Packages and run Jarvis you will need:</p>
 <p>Python + pip packagemanager</p>
