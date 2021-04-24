@@ -31,6 +31,6 @@ Here is a list of commands that you can say:
 <p>• are you there</p>
 <p>• are you up</p>
 <p>• thanks Jarvis</p>
-<br>
-### INFO
+
+### Info
 I know that the linked songs are not working and you will get an error. IT WILL BE ADDED SOON!
