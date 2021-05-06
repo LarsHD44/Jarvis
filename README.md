@@ -1,10 +1,11 @@
-<h1>Jarvis Voiceassistent</h1>
+# Jarvis Voiceassistent
 
-<br>
-<h1>programs you need</h1>
-<p>To install the Packages and run Jarvis you will need:</p>
-<p>Python + pip packagemanager</p>
 [![GitHub version](https://badge.fury.io/gh/LarsHD44%2FJarvis.svg)](https://github.com/LarsHD44/Jarvis)
+
+# programs you need
+To install the Packages and run Jarvis you will need:</p>
+Python + pip packagemanager</p>
+
 # packages you will need
 To run Jarvis you have to install all the packages in requierements.txt,
 To do that just run **pip install -r requirements.txt**
