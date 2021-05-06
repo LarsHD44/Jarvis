@@ -38,3 +38,4 @@ Here is a list of commands that you can say:
 
 ### Info
 I know that the linked songs are not working and you will get an error. IT WILL BE ADDED SOON!
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/LarsHD44/)
