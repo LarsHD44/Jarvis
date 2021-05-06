@@ -1,5 +1,5 @@
-<h1>Jarvis</h1>
-<p>My little Jarvis Voice Assistent.</p>
+<h1>Jarvis Voiceassistent</h1>
+[![GitHub version](https://badge.fury.io/gh/LarsHD44%2FJarvis.svg)](https://github.com/LarsHD44/Jarvis)
 <br>
 <h1>programs you need</h1>
 <p>To install the Packages and run Jarvis you will need:</p>
