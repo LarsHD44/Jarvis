@@ -1,7 +1,7 @@
 # Jarvis Voiceassistent
 
 [![GitHub version](https://badge.fury.io/gh/LarsHD44%2FJarvis.svg)](https://github.com/LarsHD44/Jarvis)
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![Github all releases](https://img.shields.io/github/downloads/LarsHD44/Jarvis/total.svg)](https://GitHub.com/LarsHD44/Jarvis/releases/)
 [![Only 13 Kb](https://badge-size.herokuapp.com/LarsHD44/Jarvis/master/Jarvis.py)](https://github.com/LarsHD44/Jarvis/blob/master/Jarvis.py)
 
 # programs you need
